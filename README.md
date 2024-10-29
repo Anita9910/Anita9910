@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Anita9910
+- 👀 I’m interested in development of website and apps.
+- 🌱 I’m currently learning about data stucture
+- 💞️ I’m looking to internship
